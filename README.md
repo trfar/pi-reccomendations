@@ -17,7 +17,9 @@ Register in `~/.pi/agent/settings.json`:
 
 ## Usage
 
-Just ask in chat, e.g. "ask me which of three approaches I prefer" — the wizard opens, one
+The model will use the question wizard organically when it requires clarification.
+
+To test, just ask in chat, e.g. "ask me which of three approaches I prefer". The wizard opens, one
 question per screen.
 
 Keys: `1`–`4` pick, arrows move, `Enter` confirms, a dim "Your Own Answer" row takes free text,
